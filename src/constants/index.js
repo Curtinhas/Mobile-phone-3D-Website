@@ -33,10 +33,10 @@ export const hightlightsSlides = [
     textLists: [
       "Titanium Ultra Max has the",
       "longest optical zoom in",
-      "iPhone ever. Far out.",
+      "Titanium ever. Far out.",
     ],
     video: highlightThirdVideo,
-    videoDuration: 2,
+    videoDuration: 5,
   },
   {
     id: 4,
